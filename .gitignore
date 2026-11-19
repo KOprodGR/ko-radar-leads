@@ -1,0 +1,21 @@
+# Segredos
+.env
+
+# Dados reais de leads (telefones de empresas): nao versionar
+*.csv
+detalhes.json
+
+# Excecao: o exemplo com dados ficticios
+!exemplo/
+!exemplo/leads.exemplo.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Sistema e editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

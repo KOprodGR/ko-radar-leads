@@ -1,0 +1,4 @@
+status,nome,nicho,telefone,nota,avaliacoes,endereco,maps,place_id,data_busca
+novo,Adega Exemplo,adega,(11) 90000-0001,4.5,32,"Rua Exemplo, 100 - Bairro Exemplo, São Paulo - SP",https://maps.google.com/?cid=0000000000000000001,EXEMPLO_PLACE_ID_001,2026-01-01
+novo,Moda Fictícia,moda,(11) 4000-0002,4.2,58,"Av. Fictícia, 250 - Bairro Exemplo, São Paulo - SP",https://maps.google.com/?cid=0000000000000000002,EXEMPLO_PLACE_ID_002,2026-01-01
+contatado,Contabilidade de Mentira,contabilidade,(11) 4000-0003,5.0,12,"Rua de Mentira, 30 - Bairro Exemplo, São Paulo - SP",https://maps.google.com/?cid=0000000000000000003,EXEMPLO_PLACE_ID_003,2026-01-01
