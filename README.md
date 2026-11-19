@@ -114,4 +114,4 @@ Os campos de telefone e de site entram na faixa **Enterprise** da Places API, qu
 
 ## Licença
 
-Defina a licença antes de publicar (por exemplo, MIT) e adicione um arquivo `LICENSE`.
+[MIT](LICENSE) © 2026 KO Production.
